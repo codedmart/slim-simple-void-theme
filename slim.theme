@@ -23,7 +23,7 @@ username_x		50%
 username_y		79%
 
 username_msg		Log-in	
-password_msg		Enter The Void
+password_msg		
 
 # Input controls
 input_panel_x           50%
